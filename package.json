@@ -6,7 +6,7 @@
   "author": "William Cantin <william@hugocantin.info>",
   "license": "MIT",
   "scripts": {
-    "run": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "better-sqlite3": "^4.1.0",
