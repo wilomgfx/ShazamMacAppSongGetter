@@ -1,0 +1,19 @@
+{
+  "name": "ShazamMacAppSongGetter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wilomgfx/ShazamMacAppSongGetter.git",
+  "author": "William Cantin <william@hugocantin.info>",
+  "license": "MIT",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^4.1.0",
+    "dotenv": "^5.0.1",
+    "rapidapi-connect": "^0.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
