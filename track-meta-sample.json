@@ -1,0 +1,523 @@
+{
+  "track" : {
+    "heading" : {
+      "title" : "Harsh Realm",
+      "subtitle" : "Widowspeak"
+    },
+    "layout" : "4",
+    "actions" : [
+      {
+        "name" : "track:53225406",
+        "type" : "track",
+        "id" : "53225406"
+      }
+    ],
+    "urlparams" : {
+      "{tracktitle}" : "Harsh+Realm",
+      "{trackartist}" : "Widowspeak"
+    },
+    "footnotes" : [
+      {
+        "title" : "Album",
+        "value" : "Harsh Realm - Single"
+      },
+      {
+        "title" : "Label",
+        "value" : "Captured Tracks"
+      },
+      {
+        "title" : "Released",
+        "value" : "2011"
+      },
+      {
+        "title" : "Artwork",
+        "value" : "Provided by iTunes"
+      }
+    ],
+    "artists" : [
+      {
+        "id" : "40890296"
+      }
+    ],
+    "advertising" : {
+      "preview" : "tagpreview",
+      "site" : "tagresult",
+      "beacondata" : {
+        "trackkey" : "53225406"
+      },
+      "parameters" : {
+        "gr" : "ALTERNATIVE",
+        "tid" : "53225406",
+        "an" : "Widowspeak",
+        "tt" : "Harsh Realm"
+      }
+    },
+    "feed" : [
+      {
+        "id" : "sharebar",
+        "type" : "sharebar"
+      },
+      {
+        "beacondata" : {
+          "listen1" : "Applemusic",
+          "listen2" : "Deezer"
+        },
+        "id" : "listen",
+        "content" : {
+          "hideheader" : true,
+          "itemstoshow" : 3,
+          "list" : [
+            {
+              "beacondata" : {
+                "type" : "addonselected",
+                "providername" : "Applemusic"
+              },
+              "title" : "Apple Music",
+              "caption" : "Listen in Apple Music",
+              "image" : "https:\/\/images.shazam.com\/static\/icons\/feed\/ios\/v4\/listen_applemusic2.png",
+              "actions" : [
+                {
+                  "name" : "feed:applemusic:deeplink",
+                  "type" : "uri",
+                  "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=1001l4DI&itscg=30201&ct=5348615A-616D-3235-3830-44754D6D5973&app=music&itsct=Shazam_1"
+                }
+              ]
+            },
+            {
+              "beacondata" : {
+                "type" : "addonselected",
+                "providername" : "Deezer"
+              },
+              "title" : "Deezer",
+              "caption" : "Listen in Deezer",
+              "image" : "https:\/\/images.shazam.com\/static\/icons\/feed\/ios\/v4\/listen_deezer.png",
+              "actions" : [
+                {
+                  "name" : "feed:deezer:searchdeeplink",
+                  "type" : "uri",
+                  "uri" : "deezer-query:\/\/www.deezer.com\/play?query=%7Btrack%3A%27Harsh+Realm%27%20artist%3A%27Widowspeak%27%7D"
+                },
+                {
+                  "name" : "feed:deezer:store",
+                  "type" : "uri",
+                  "uri" : "https:\/\/app.adjust.com\/mb09v4?campaign=CA&deep_link=deezer-query:\/\/www.deezer.com\/play?query=%7Btrack%3A%27Harsh+Realm%27%20artist%3A%27Widowspeak%27%7D&install_callback=https%3A%2F%2Fbeacon.shazam.com%2Fdeezer%2F1.0%2Fen%2FCA%2Fios%2F-%2Fbeacon%2F641C3824-EA77-3F13-9E1D-7792B6685326%2Finstall%3Fclick%3D5348615A-616D-3235-3830-44754D6D5973%26track%3D53225406%26created%3D%7Bcreated_at%7D%26time%3D%7Bclick_time%7D&event_callback_nbx1y0_vj2o2s_ybye4k=https%3A%2F%2Fbeacon.shazam.com%2Fdeezer%2F1.0%2Fen%2FCA%2Fios%2F-%2Fbeacon%2F641C3824-EA77-3F13-9E1D-7792B6685326%2Fsubscribe%3Fclick%3D5348615A-616D-3235-3830-44754D6D5973%26track%3D53225406%26created%3D%7Bcreated_at%7D%26time%3D%7Bclick_time%7D%26currency%3D%7Breporting_currency%7D%26revenue%3D%7Breporting_revenue%7D"
+                }
+              ]
+            },
+            {
+              "beacondata" : {
+                "type" : "addonselected",
+                "providername" : "Spotify"
+              },
+              "title" : "Spotify",
+              "caption" : "Listen in Spotify",
+              "image" : "https:\/\/images.shazam.com\/static\/icons\/feed\/ios\/v4\/listen_spotify.png",
+              "actions" : [
+                {
+                  "name" : "feed:spotify:deeplink",
+                  "type" : "uri",
+                  "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+                },
+                {
+                  "name" : "feed:spotify:store",
+                  "type" : "uri",
+                  "uri" : "https:\/\/app.adjust.io\/wkkz9h_6a5450?campaign=CA&adgroup=feed&deep_link=spotify:track:6I36621L3Q3OdORZJDvCh8"
+                }
+              ]
+            },
+            {
+              "beacondata" : {
+                "type" : "addonselected",
+                "providername" : "googleallaccess"
+              },
+              "title" : "Google Play Music",
+              "caption" : "Listen in Google Play Music",
+              "image" : "https:\/\/images.shazam.com\/static\/icons\/feed\/ios\/v4\/listen_googleplaymusic.png",
+              "actions" : [
+                {
+                  "name" : "feed:googleallaccess:iosdeeplink",
+                  "type" : "uri",
+                  "uri" : "googleplaymusic:\/music\/m\/Tc374kluivrlop4mgwves6bq2ni?signup=1&ln=1&play=1&utm_source=shazam&utm_medium=listen&utm_campaign=standard&PCamrefID=v4-streaming-ios&PAffiliateID=100l3LE"
+                },
+                {
+                  "name" : "feed:googleallaccess:iosstore",
+                  "type" : "uri",
+                  "uri" : "https:\/\/itunes.apple.com\/app\/google-play-music\/id691797987?at=11l3eE&ct=5348615A-616D-3235-3830-44754D6D5973"
+                }
+              ]
+            }
+          ]
+        },
+        "type" : "list"
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected",
+          "providername" : "YouTube"
+        },
+        "id" : "generalvideos",
+        "content" : {
+          "context" : "Videos",
+          "image" : {
+            "url" : "https:\/\/cdn.shazam.com\/discovery\/v2\/-\/CA\/-\/youtube\/redirect\/image?q=Widowspeak+%22Harsh+Realm%22",
+            "dimensions" : {
+              "width" : 640,
+              "height" : 360
+            }
+          },
+          "hideheader" : false
+        },
+        "type" : "general",
+        "actions" : [
+          {
+            "uri" : "https:\/\/cdn.shazam.com\/discovery\/v2\/-\/CA\/-\/youtube\/redirect?q=Widowspeak+%22Harsh+Realm%22",
+            "name" : "feed:youtube:redirect",
+            "type" : "webview",
+            "share" : {
+              "html" : "https:\/\/www.shazam.com\/snippets\/email-share\/53225406?lang=en&country=CA",
+              "twitter" : "I used Shazam to discover Harsh Realm by Widowspeak.",
+              "subject" : "Harsh Realm - Widowspeak",
+              "href" : "https:\/\/www.shazam.com\/track\/53225406\/harsh-realm",
+              "image" : "https:\/\/images.shazam.com\/coverart\/t53225406-i594605311_s400.jpg",
+              "text" : "I used Shazam to discover Harsh Realm by Widowspeak."
+            }
+          }
+        ]
+      },
+      {
+        "id" : "searchlyrics",
+        "content" : {
+          "body" : "Last night I thought of you\nYears ago, when bodies grew",
+          "actiontext" : "SEE ALL",
+          "hideheader" : false,
+          "headline" : "Lyrics"
+        },
+        "type" : "link",
+        "actions" : [
+          {
+            "name" : "feed:lyrics:web",
+            "type" : "webview",
+            "uri" : "https:\/\/www.shazam.com\/track\/lyrics\/full\/53225406"
+          }
+        ]
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected"
+        },
+        "id" : "facebook",
+        "sitekey" : "track",
+        "providername" : "facebook",
+        "type" : "sponsored"
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected",
+          "providername" : "ArtistsTopTracks"
+        },
+        "id" : "toptracks",
+        "content" : {
+          "actiontext" : "SEE ALL",
+          "url" : "https:\/\/cdn.shazam.com\/shazam\/v2\/en\/CA\/mac\/-\/tracks\/artisttoptracks_40890296",
+          "hideheader" : true,
+          "headline" : "Top tracks from Widowspeak"
+        },
+        "type" : "rail",
+        "actions" : [
+          {
+            "type" : "tracklist",
+            "href" : "https:\/\/cdn.shazam.com\/shazam\/v2\/en\/CA\/mac\/-\/tracks\/artisttoptracks_40890296"
+          }
+        ]
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected",
+          "providername" : "Recommendations"
+        },
+        "id" : "recommendations",
+        "content" : {
+          "actiontext" : "SEE ALL",
+          "url" : "https:\/\/cdn.shazam.com\/shazam\/v2\/en\/CA\/mac\/-\/tracks\/recommendations_53225406",
+          "hideheader" : true,
+          "headline" : "Recommended"
+        },
+        "type" : "rail",
+        "actions" : [
+          {
+            "type" : "tracklist",
+            "href" : "https:\/\/cdn.shazam.com\/shazam\/v2\/en\/CA\/mac\/-\/tracks\/recommendations_53225406"
+          }
+        ]
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected",
+          "providername" : "spotify_connect"
+        },
+        "id" : "spotifyconnect",
+        "content" : {
+          "body" : "Save all of your songs in Spotify. Tap to get connected.",
+          "image" : {
+            "url" : "https:\/\/images.shazam.com\/static\/card\/feed\/ios\/v4\/spotifyconnect.png",
+            "dimensions" : {
+              "width" : 640,
+              "height" : 202
+            }
+          },
+          "hideheader" : false,
+          "headline" : "Shazam & Spotify: Better Together"
+        },
+        "type" : "spotifyconnect",
+        "actions" : [
+          {
+            "name" : "feed:spotify:connect",
+            "type" : "spotifyconnect"
+          }
+        ]
+      },
+      {
+        "beacondata" : {
+          "type" : "addonselected",
+          "providername" : "Follow"
+        },
+        "id" : "follow:40890296",
+        "type" : "follow",
+        "artist" : {
+          "name" : "Widowspeak",
+          "id" : "40890296",
+          "follow" : {
+            "followkey" : "A_40890296"
+          },
+          "actions" : [
+            {
+              "type" : "artist",
+              "id" : "40890296"
+            }
+          ],
+          "verified" : false,
+          "avatar" : {
+            "default" : "https:\/\/images.shazam.com\/artistart\/a40890296_s400.jpg"
+          }
+        }
+      }
+    ],
+    "type" : "MUSIC",
+    "key" : "53225406",
+    "url" : "https:\/\/www.shazam.com\/track\/53225406\/harsh-realm",
+    "beacondata" : {
+      "matchcategory" : "music",
+      "trackid" : "53225406",
+      "trackkey" : "53225406",
+      "layout" : "4"
+    },
+    "share" : {
+      "html" : "https:\/\/www.shazam.com\/snippets\/email-share\/53225406?lang=en&country=CA",
+      "twitter" : "I used Shazam to discover Harsh Realm by Widowspeak.",
+      "subject" : "Harsh Realm - Widowspeak",
+      "href" : "https:\/\/www.shazam.com\/track\/53225406\/harsh-realm",
+      "image" : "https:\/\/images.shazam.com\/coverart\/t53225406-i594605311_s400.jpg",
+      "text" : "I used Shazam to discover Harsh Realm by Widowspeak."
+    },
+    "alias" : "harsh-realm",
+    "images" : {
+      "default" : "https:\/\/images.shazam.com\/coverart\/t53225406-i594605311_s400.jpg"
+    },
+    "stores" : {
+      "itunes" : {
+        "previewurl" : "https:\/\/audio-ssl.itunes.apple.com\/apple-assets-us-std-000001\/Music\/v4\/79\/5e\/50\/795e5005-0714-f63e-2194-51c119451ab6\/mzaf_4423502689349068947.plus.aac.p.m4a",
+        "explicit" : false,
+        "coverarturl" : "https:\/\/images.shazam.com\/coverart\/t53225406-i594605311_s400.jpg",
+        "actions" : [
+          {
+            "type" : "uri",
+            "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=11l3eE&ct=5348615A-616D-3235-3830-44754D6D5973&app=itunes"
+          }
+        ],
+        "trackid" : "594605311",
+        "productid" : "594605105"
+      },
+      "google" : {
+        "previewurl" : "https:\/\/audio-ssl.itunes.apple.com\/apple-assets-us-std-000001\/Music\/v4\/79\/5e\/50\/795e5005-0714-f63e-2194-51c119451ab6\/mzaf_4423502689349068947.plus.aac.p.m4a",
+        "trackid" : "Tc374kluivrlop4mgwves6bq2ni",
+        "productid" : "Bertpwlrzry4qkqbgefhimaxhca",
+        "actions" : [
+          {
+            "type" : "intent",
+            "uri" : "intent:\/\/play.google.com\/store\/music\/album?id=Bertpwlrzry4qkqbgefhimaxhca&tid=song-Tc374kluivrlop4mgwves6bq2ni&PAffiliateID=100l3pk&PCamRefID=v4-buy-android#Intent;scheme=https;action=android.intent.action.VIEW;package=com.android.vending;end"
+          },
+          {
+            "type" : "uri",
+            "uri" : "https:\/\/play.google.com\/store\/music\/album?id=Bertpwlrzry4qkqbgefhimaxhca&tid=song-Tc374kluivrlop4mgwves6bq2ni&PAffiliateID=100l3pk&PCamRefID=v4-buy-android"
+          }
+        ]
+      },
+      "claromusicasearch" : {
+        "actions" : [
+          {
+            "name" : "claromusicasearch:web",
+            "type" : "uri",
+            "uri" : "https:\/\/www.claromusica.com\/deeplink\/share\/country\/CA\/search\/Harsh%20Realm?utm_source=shazam&utm_medium=link&utm_campaign=CA-amco-busca-compra&utm_content=CLAROID&utm_term=busca-compra"
+          },
+          {
+            "name" : "claromusicasearch:store",
+            "type" : "uri",
+            "uri" : "https:\/\/play.google.com\/store\/apps\/details?id=com.claro.claromusica.latam"
+          }
+        ]
+      },
+      "apple" : {
+        "previewurl" : "https:\/\/audio-ssl.itunes.apple.com\/apple-assets-us-std-000001\/Music\/v4\/79\/5e\/50\/795e5005-0714-f63e-2194-51c119451ab6\/mzaf_4423502689349068947.plus.aac.p.m4a",
+        "explicit" : false,
+        "coverarturl" : "https:\/\/images.shazam.com\/coverart\/t53225406-b594605311_s400.jpg",
+        "actions" : [
+          {
+            "type" : "uri",
+            "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=1001l4DI&itscg=30201&ct=5348615A-616D-3235-3830-44754D6D5973&app=music&itsct=Shazam_1"
+          }
+        ],
+        "trackid" : "594605311",
+        "productid" : "594605105"
+      }
+    },
+    "hub" : {
+      "options" : {
+        "apple" : {
+          "playlist" : {
+            "actions" : [
+              {
+                "type" : "applemusicplaylist",
+                "id" : "594605311"
+              }
+            ]
+          },
+          "play" : {
+            "actions" : [
+              {
+                "type" : "applemusicplay",
+                "id" : "594605311"
+              },
+              {
+                "type" : "playaudio",
+                "uri" : "https:\/\/audio-ssl.itunes.apple.com\/apple-assets-us-std-000001\/Music\/v4\/79\/5e\/50\/795e5005-0714-f63e-2194-51c119451ab6\/mzaf_4423502689349068947.plus.aac.p.m4a"
+              }
+            ]
+          },
+          "openin" : {
+            "actions" : [
+              {
+                "type" : "uri",
+                "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=1001l4DI&itscg=30201&ct=5348615A-616D-3235-3830-44754D6D5973&app=music&itsct=Shazam_1"
+              }
+            ]
+          },
+          "buy" : {
+            "actions" : [
+              {
+                "type" : "uri",
+                "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=11l3eE&ct=5348615A-616D-3235-3830-44754D6D5973&app=itunes"
+              }
+            ]
+          }
+        },
+        "spotify" : {
+          "playlist" : {
+            "actions" : [
+              {
+                "type" : "spotifyplaylist",
+                "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+              }
+            ]
+          },
+          "play" : {
+            "actions" : [
+              {
+                "type" : "spotifyplay",
+                "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+              }
+            ]
+          },
+          "openin" : {
+            "actions" : [
+              {
+                "type" : "uri",
+                "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+              },
+              {
+                "type" : "uri",
+                "uri" : "https:\/\/app.adjust.io\/wkkz9h_6a5450?campaign=CA&adgroup=hub&deep_link=spotify:track:6I36621L3Q3OdORZJDvCh8"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "streams" : {
+      "deezer" : {
+        "actions" : [
+          {
+            "name" : "stream:deezer:searchdeeplink",
+            "type" : "uri",
+            "uri" : "deezer-query:\/\/www.deezer.com\/play?query=%7Btrack%3A%27Harsh+Realm%27%20artist%3A%27Widowspeak%27%7D"
+          },
+          {
+            "name" : "stream:deezer:store",
+            "type" : "uri",
+            "uri" : "https:\/\/app.adjust.com\/mb09v4?campaign=CA&deep_link=deezer-query:\/\/www.deezer.com\/play?query=%7Btrack%3A%27Harsh+Realm%27%20artist%3A%27Widowspeak%27%7D&install_callback=https%3A%2F%2Fbeacon.shazam.com%2Fdeezer%2F1.0%2Fen%2FCA%2Fios%2F-%2Fbeacon%2F641C3824-EA77-3F13-9E1D-7792B6685326%2Finstall%3Fclick%3D5348615A-616D-3235-3830-44754D6D5973%26track%3D53225406%26created%3D%7Bcreated_at%7D%26time%3D%7Bclick_time%7D&event_callback_nbx1y0_vj2o2s_ybye4k=https%3A%2F%2Fbeacon.shazam.com%2Fdeezer%2F1.0%2Fen%2FCA%2Fios%2F-%2Fbeacon%2F641C3824-EA77-3F13-9E1D-7792B6685326%2Fsubscribe%3Fclick%3D5348615A-616D-3235-3830-44754D6D5973%26track%3D53225406%26created%3D%7Bcreated_at%7D%26time%3D%7Bclick_time%7D%26currency%3D%7Breporting_currency%7D%26revenue%3D%7Breporting_revenue%7D"
+          }
+        ]
+      },
+      "spotify" : {
+        "actions" : [
+          {
+            "name" : "stream:spotify:play",
+            "type" : "spotifyplay",
+            "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+          },
+          {
+            "name" : "stream:spotify:deeplink",
+            "type" : "uri",
+            "uri" : "spotify:track:6I36621L3Q3OdORZJDvCh8"
+          },
+          {
+            "name" : "stream:spotify:store",
+            "type" : "uri",
+            "uri" : "https:\/\/app.adjust.io\/wkkz9h_6a5450?campaign=CA&adgroup=stream&deep_link=spotify:track:6I36621L3Q3OdORZJDvCh8"
+          }
+        ]
+      },
+      "googleallaccess" : {
+        "actions" : [
+          {
+            "name" : "stream:googleallaccess:iosdeeplink",
+            "type" : "uri",
+            "uri" : "googleplaymusic:\/music\/m\/Tc374kluivrlop4mgwves6bq2ni?signup=1&ln=1&play=1&utm_source=shazam&utm_medium=listen&utm_campaign=standard&PCamrefID=v4-streaming-ios&PAffiliateID=100l3LE"
+          },
+          {
+            "name" : "stream:googleallaccess:iosstore",
+            "type" : "uri",
+            "uri" : "https:\/\/itunes.apple.com\/app\/google-play-music\/id691797987?at=11l3eE&ct=5348615A-616D-3235-3830-44754D6D5973"
+          }
+        ]
+      },
+      "applemusic" : {
+        "actions" : [
+          {
+            "name" : "stream:applemusic:connect",
+            "type" : "applemusicconnect"
+          },
+          {
+            "name" : "stream:applemusic:play",
+            "type" : "applemusicplay",
+            "id" : "594605311"
+          },
+          {
+            "name" : "stream:applemusic:deeplink",
+            "type" : "uri",
+            "uri" : "https:\/\/itunes.apple.com\/ca\/album\/harsh-realm\/id594605105?i=594605311&uo=5&at=1001l4DI&itscg=30201&ct=5348615A-616D-3235-3830-44754D6D5973&app=music&itsct=Shazam_1"
+          }
+        ]
+      }
+    }
+  }
+}
